@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2026 iThome 鐵人賽 Day 01 - 從零開始 SecAI+ 的備考指南
+title: 從零開始 SecAI+ 的備考指南
 ---
 大家好，今年在公司新接觸了 ISO 27001 及導入火熱的 AI ，於是開始了解資安及 AI 相關議題。
 
