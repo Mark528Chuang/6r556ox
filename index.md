@@ -4,16 +4,10 @@
 
 ---
 
-## 🛠️ Linux 常用指令
-這是我常用的快速筆記：
+## 🚀 系列一：從零開始 SecAI+ 的備考指南
+* [從零開始 SecAI+ 的備考指南](SecAIPlus/day01.html)
 
-```bash
-# 更新系統套件
-sudo apt update && sudo apt upgrade -y
-
-# 查看硬碟空間
-df -h
-```
+---
 
 ## 📝 關於我
 一個討厭把簡單事情複雜化的普通開發者。
