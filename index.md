@@ -6,6 +6,7 @@
 
 ## 🚀 系列一：從零開始 SecAI+ 的備考指南
 * [從零開始 SecAI+ 的備考指南](SecAIPlus/day01.html)
+* [機器學習三大學習方式](SecAIPlus/day02.html)
 
 ---
 
